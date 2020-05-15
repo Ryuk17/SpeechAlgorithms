@@ -1,10 +1,10 @@
 # SpeechAlgorithms
-微信公众号语音算法组文章对应的代码及数据  
+微信公众号语音算法组文章对应的代码及数据 
+
 
 
 
 # 目录
-## Processing Algorithms
 
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
@@ -13,3 +13,6 @@
 | DNN单通道语音增强        |    [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484173&idx=1&sn=96ac7133e20dc95c3f2e7f16f74dcfb1&chksm=9f22689aa855e18c8417889ed0da02f143743d4ff805d877bc8dbfc4fde8a391fa6a127cc177&token=324471119&lang=zh_CN#rd)    |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechEnhancement)  |
 | 生成有噪声/回声/混响/啸叫的混合语音样本        |    [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484214&idx=1&sn=21db3addb4e1163b4c5d26156ee97aa4&chksm=9f2268a1a855e1b7d2dc21c6ab5697231ba21a1014f94a7919349cae10db70dd887015cb31ce&token=324471119&lang=zh_CN#rd)    |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/addNoise)  |
 | 使用CNN进行简单的指令识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484242&idx=1&sn=527db511d57cf4ff4c1f909423034603&chksm=9f2268c5a855e1d3497b657ac04533eca0070d680b1b0bb8971fd998cb4480e6e17692283850&token=1676318016&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CommandRecognition) |
+| 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VAD)  |
+
+
