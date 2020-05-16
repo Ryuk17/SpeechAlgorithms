@@ -26,12 +26,31 @@ def add_noise(clean, noise, snr):
     return mix
 
 
-def add_echo(clean, beta=0.5, delay=0.1, sample_rate=8000):
-    mix = clean.copy()
-    shift = int(delay*sample_rate)
-    for i in range(shift, len(clean)):
-        mix[i] = beta*clean[i] + (1-beta)*clean[i-shift]
+def addEcho(clean, sr, alpha, beta=0.5, delay=0.1, type=1):
+    """
+    add echo signal to raw speech
+    :param clean: clean speech
+    :param sr: sample rate
+    :param alpha: parameters for type1
+    :param beta: parameters for type2
+    :param delay: parameters for type2
+    :param type: echo type
+    :return: mix signal
+    """
+    if type == 1:
+        h = [1]
+        h.extend([0] * int(alpha * sr))
+        h.extend([0.5])
+        h.extend([0] * int(alpha * sr))
+        h.extend([0.25])
+        mix = signal.convolve(clean, h)
+    else:
+        mix = clean.copy()
+        shift = int(delay * sr)
+        for i in range(shift, len(clean)):
+            mix[i] = beta * clean[i] + (1 - beta) * clean[i - shift]
     return mix
+
 
 
 def add_reverberation(clean, alpha=0.8, R=2000):
