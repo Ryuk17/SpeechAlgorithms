@@ -18,4 +18,4 @@
 | 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VAD)  |
 |说话人性别识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484304&idx=1&sn=d7820bc93bd9dabe73079a5f56df9807&chksm=9f226807a855e11162ed0856b12723ba0b967ccb901b7f8a27219e3b475bbecd1327dd72874d&token=2016526173&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
 
-
+| 解析自适应滤波回声消除   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484312&idx=1&sn=afa00c2fb91f72bdfd73fc99f0efede0&chksm=9f22680fa855e119cdc2fc2c6a4ddb646bf2adff27010a6c0c16383b687c0104fc3d9561c0ef&token=1373088786&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AEC) |
