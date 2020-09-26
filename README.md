@@ -30,7 +30,7 @@
 ## 其他
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
-| 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484371&idx=1&sn=2b4cb91b1044d46a0da41e9421bbcfce&chksm=9f226844a855e152eef92d9278e8c81e6137decaf11b8c39f00d58b0c7cecebdd996e9433420&token=45703017&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/ESC)     |
+| 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484371&idx=1&sn=2b4cb91b1044d46a0da41e9421bbcfce&chksm=9f226844a855e152eef92d9278e8c81e6137decaf11b8c39f00d58b0c7cecebdd996e9433420&token=45703017&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Speech%20Quality%20Measures)     |
 
 
 
