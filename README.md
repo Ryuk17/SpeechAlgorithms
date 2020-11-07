@@ -19,6 +19,7 @@
 | 解析自适应滤波回声消除   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484312&idx=1&sn=afa00c2fb91f72bdfd73fc99f0efede0&chksm=9f22680fa855e119cdc2fc2c6a4ddb646bf2adff27010a6c0c16383b687c0104fc3d9561c0ef&token=1373088786&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AEC)  |
 | 使用AMR编解码器生成VAD的标签     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&tempkey=MTA3OV9DczEweFQ0NlB3U1lCNm0zZlpvbS15dTNqNGhpUHkwT2FydHlwNjBuRjdrd2JMS0VUaUFETms0c3FLUmE5WUc4Z1pySWlTdWh2Q3VIblQ0TDh2T051LTlSN3hVdV8tTjFNSmNEQkxDd0lBbE1SZGl5Yzhkbm9Najc3d2doajV3WE10eXUzYVZMdUNaTFlBaUFJLVlldF9xNjVwRWhlOUpQaVJmcWhnfn4%3D&chksm=1f226f9f2855e6894e033f39502a5ceb9d6e781a2b396dcbdc49e9cacb4898da9d5408a8d710#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VADCoder) |
 | 使用TDOA进行声源定位      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484417&idx=1&sn=a416da2d9238cd863697d91dd26233e4&chksm=9f226f96a855e6808ac3d90e83f8c673d8daddc57b95a537c0a2ba547ce53307452b0940c19a&token=139302241&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SSL)     |
+| 以任意频率重采样语音信号      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484499&idx=1&sn=e48de61a2497511626e5ae9312f20e57&chksm=9f226fc4a855e6d2db0590f08459af79e88420af09ec7ce97f75946c0437978e9262a7f36809&token=1215134525&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Resample)     |
 
 ## 语音后端算法
 | 标题        | 原文   |  代码  |
@@ -30,7 +31,7 @@
 ## 其他
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
-| 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&tempkey=MTA4MF83Z3pjUVEzZ2hNMmN1bW5iZklnU1o5SkUyb0YwU25ITWxMNnM5NlhJbGlGck1EQ05rYTVvN2RjbDV6VUROQV9lR3lVdDM2d0MtRTRQNzdWR0pQa1UyVms5N184c1gtay1FUjZ5M2dKR19tX2lfeDJPWTMweVlYS240amVlVk5MZ3VSUW5Td0I5eUMtNG1LeEpzUDFIaE1XS3A2VmlWSFZSUy1qZWNnfn4%3D&chksm=1f226fb32855e6a5006f373dcffc189886494b74852bd502ef24e4242f871c80f7ef9f406ed2#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Speech%20Quality%20Measures)     |
+| 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484460&idx=1&sn=ee26a6c9fc19857b416eef7264fba244&chksm=9f226fbba855e6ad0997e376079772e05a468084710d7955506e527300ea8e5aaef97f6c3e30&token=1215134525&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Speech%20Quality%20Measures)     |
 
 
 
