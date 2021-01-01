@@ -28,6 +28,7 @@
 |说话人性别识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484304&idx=1&sn=d7820bc93bd9dabe73079a5f56df9807&chksm=9f226807a855e11162ed0856b12723ba0b967ccb901b7f8a27219e3b475bbecd1327dd72874d&token=2016526173&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
 | 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484371&idx=1&sn=2b4cb91b1044d46a0da41e9421bbcfce&chksm=9f226844a855e152eef92d9278e8c81e6137decaf11b8c39f00d58b0c7cecebdd996e9433420&token=45703017&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/ESC)     |
 | 音频数字水印的嵌入和提取      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484522&idx=1&sn=df457333ad5e1af32708c171ae7f5e1b&chksm=9f226ffda855e6eb57579732b002e36e1479e29be73980f3ee8b05d26157a3a6031791e8e0e4&token=909330882&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Watermarking)     |
+| 超级变变变之变声器      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484554&idx=1&sn=c7a56dbf1c06654b02f0d51bffbd1d10&chksm=9f226f1da855e60bfdb2584d46a34f10a53028416817415d28d19bead72626d10e6757f80854&token=147554636&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AudioEffect)     |
 
 ## 其他
 | 标题        | 原文   |  代码  |
