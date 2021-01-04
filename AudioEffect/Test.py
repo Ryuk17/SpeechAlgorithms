@@ -8,7 +8,7 @@
 @Version: v0.1
 """
 
-from Algorithm import *
+from td_psola import *
 import librosa
 import soundfile as sf
 import matplotlib.pyplot as plt
