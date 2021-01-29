@@ -4,7 +4,7 @@ This is a repo about speech algorithms, I am looking for a platfrom to translate
 
 # Content
 
-## Front-end Algorithms
+## Speech front-end Algorithms
 | Title        | Blog   |  Code  |
 | --------   | -----:  | :----:  |
 | Spectral substraction for noise reduction      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484134&idx=1&sn=0b5adda3ade249f7d37f0146a92293a9&chksm=9f226971a855e0676d985a8f3b72e0fb3e243b1e92102ba6116dd82e43b1bc63196e802ab851&scene=21#wechat_redirect)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpectralSubtraction)     |
@@ -17,7 +17,7 @@ This is a repo about speech algorithms, I am looking for a platfrom to translate
 | Sound source localization based on TDOA      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484417&idx=1&sn=a416da2d9238cd863697d91dd26233e4&chksm=9f226f96a855e6808ac3d90e83f8c673d8daddc57b95a537c0a2ba547ce53307452b0940c19a&token=139302241&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SSL)     |
 | Resample with any sample frequency      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484499&idx=1&sn=e48de61a2497511626e5ae9312f20e57&chksm=9f226fc4a855e6d2db0590f08459af79e88420af09ec7ce97f75946c0437978e9262a7f36809&token=1215134525&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Resample)     |
 
-## Front-end Algorithms
+## Speech back-end Algorithms
 | Title        | Blog   |  Code  |
 | --------   | -----:  | :----:  |
 | Command recognition with CNN  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484242&idx=1&sn=527db511d57cf4ff4c1f909423034603&chksm=9f2268c5a855e1d3497b657ac04533eca0070d680b1b0bb8971fd998cb4480e6e17692283850&token=1676318016&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CommandRecognition) |
