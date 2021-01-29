@@ -1,10 +1,13 @@
 # SpeechAlgorithms
 
+
 微信公众号**语音算法组**文章的相关代码
 
 * 微信公众号：语音算法组
 * QQ群：652292630 / 微信群关注公众号点击More->微信群获取
 
+
+[There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)
 
 # 目录
 
