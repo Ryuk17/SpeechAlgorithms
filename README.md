@@ -1,7 +1,5 @@
 # SpeechAlgorithms
 
-语音算法
-
 [There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)
 
 # 目录
