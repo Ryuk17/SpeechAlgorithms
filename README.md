@@ -1,4 +1,4 @@
-# SpeechAlgorithms
+# Speech Algorithms
 
 [There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)
 
