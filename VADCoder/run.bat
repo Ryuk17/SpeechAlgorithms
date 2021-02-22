@@ -1,1 +1,0 @@
-.\AMRVADCoder.exe MR102 .\test.pcm .\test.dat .\test.txt
