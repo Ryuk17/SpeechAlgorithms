@@ -1,0 +1,1 @@
+Spectral substraction algorithm for noise reduction.

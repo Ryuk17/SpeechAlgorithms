@@ -1,0 +1,1 @@
+Sound source localization employs TDOA-based algorithm.

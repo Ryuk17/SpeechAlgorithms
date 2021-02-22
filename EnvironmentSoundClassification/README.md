@@ -1,0 +1,1 @@
+Environment sound classification baseline use XGboost as classfier. There are three features including MFCC, spectral contrast and  ZCR

@@ -1,0 +1,1 @@
+Voice activity detection employ LSTM. VADCoder is an exe file to generate VAD labels. 

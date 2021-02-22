@@ -1,0 +1,1 @@
+This is a simply acoustic echo cancellation demo with LMS filter.
