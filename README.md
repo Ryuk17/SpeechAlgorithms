@@ -32,6 +32,7 @@
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
 | 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484460&idx=1&sn=ee26a6c9fc19857b416eef7264fba244&chksm=9f226fbba855e6ad0997e376079772e05a468084710d7955506e527300ea8e5aaef97f6c3e30&token=1215134525&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechQualityMeasures)     |
+| 语音可懂度评估(一)——基于清晰度指数的方法      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484699&idx=1&sn=13b21c5556fb3815816e21c95e7c6f59&chksm=9f226e8ca855e79aa230335fc4000f4fab3c17ffb31d671d98fd5f1602441e272ce29bdb4c52&token=1700055186&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechIntelligibilityMetrics)     |
 
 
 
