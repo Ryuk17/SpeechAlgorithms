@@ -17,6 +17,7 @@
 | 音频数字水印的嵌入和提取      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484522&idx=1&sn=df457333ad5e1af32708c171ae7f5e1b&chksm=9f226ffda855e6eb57579732b002e36e1479e29be73980f3ee8b05d26157a3a6031791e8e0e4&token=909330882&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Watermarking)     |
 | 语音变速和变调      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484554&idx=1&sn=c7a56dbf1c06654b02f0d51bffbd1d10&chksm=9f226f1da855e60bfdb2584d46a34f10a53028416817415d28d19bead72626d10e6757f80854&token=147554636&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceChange)     |
 | 生成下雨的声音      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484656&idx=1&sn=d25135333a1cae0356360443544b4ccd&chksm=9f226f67a855e671994c2e946773eea2bac54c1f03146e3d7617d90c62cae2861ad1447ffdc7&token=1233423028&lang=zh_CN#rdd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
+| 分帧,加窗和DFT      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484741&idx=1&sn=1e3ebd6d9a0da6879433bf795677006e&chksm=9f226ed2a855e7c430c53d22b8bd781fde59d6e4760376fcb94708bd8295199a1100971d754a&token=570335002&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnframeWindowFFT)     |
 
 ## 机器/深度学习语音算法
 | 标题        | 原文   |  代码  |
