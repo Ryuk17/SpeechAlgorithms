@@ -29,7 +29,7 @@
 | 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484371&idx=1&sn=2b4cb91b1044d46a0da41e9421bbcfce&chksm=9f226844a855e152eef92d9278e8c81e6137decaf11b8c39f00d58b0c7cecebdd996e9433420&token=45703017&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
 
 
-## 其他
+## 语音评价标准
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
 | 语音客观评价标准——语音质量评价      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484460&idx=1&sn=ee26a6c9fc19857b416eef7264fba244&chksm=9f226fbba855e6ad0997e376079772e05a468084710d7955506e527300ea8e5aaef97f6c3e30&token=1215134525&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechQualityMeasures)     |
