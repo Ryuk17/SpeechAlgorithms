@@ -1,6 +1,7 @@
 # Speech Algorithms
 
-[There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)
+[There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)  
+语音算法入门级的Demo, release的版本在这里[lawliet](https://github.com/Ryuk17/lawliet)
 
 # 目录
 
