@@ -24,6 +24,7 @@
 | 基于卡尔曼滤波器的回声消除算法     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484999&idx=1&sn=4bad80ad016cae43b0adcead513e28f6&chksm=9f226dd0a855e4c6fd0af54380225f1269e9760043d9c4ff15880d623c25f223ccc3e864db35&token=216336716&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AcousticEchoCancellation)     |
 | WebRTC ANR流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_ANR)     |
 | WebRTC AGC流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AGC)     |
+| WebRTC AEC流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AEC)     |
 
 ## 机器/深度学习语音算法
 | 标题        | 原文   |  代码  |
@@ -32,7 +33,7 @@
 | 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
 | 使用CNN进行简单的指令识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484242&idx=1&sn=527db511d57cf4ff4c1f909423034603&chksm=9f2268c5a855e1d3497b657ac04533eca0070d680b1b0bb8971fd998cb4480e6e17692283850&token=1676318016&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CommandRecognition) |
 |说话人性别识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484304&idx=1&sn=d7820bc93bd9dabe73079a5f56df9807&chksm=9f226807a855e11162ed0856b12723ba0b967ccb901b7f8a27219e3b475bbecd1327dd72874d&token=2016526173&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
-| 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484371&idx=1&sn=2b4cb91b1044d46a0da41e9421bbcfce&chksm=9f226844a855e152eef92d9278e8c81e6137decaf11b8c39f00d58b0c7cecebdd996e9433420&token=45703017&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
+| 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s/E0j08B8JfR0wBIadfn9CLA)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
 
 
 ## 语音评价标准
