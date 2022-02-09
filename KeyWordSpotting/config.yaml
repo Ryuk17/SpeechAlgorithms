@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TRAIN:
     SAMPLE_RATE:16000
     FFT_LEN:512
@@ -9,4 +10,14 @@ TRAIN:
     CSV_PATH:"./dataset/"
 
 TEST:
+=======
+TRAIN:
+    SAMPLE_RATE:16000
+    FMIN:20
+    FMAX:8000
+    MELS:80
+    LENGTH:2
+
+TEST:
+>>>>>>> e388a991089d83481569c3e972ca094d6db0d172
     
