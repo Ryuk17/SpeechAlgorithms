@@ -25,6 +25,7 @@
 | WebRTC ANR流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_ANR)     |
 | WebRTC AGC流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AGC)     |
 | WebRTC AEC流程解析     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485024&idx=1&sn=4d8f700913b0e1bf282844cc5c4bc37c&chksm=9f226df7a855e4e11b1ece471b9d188e542993efd9504a5b796457d87c84013dca68401af0e0&token=1865469620&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AEC)     |
+| 基于音频指纹的听歌识曲系统  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485176&idx=1&sn=0b2b2a5d650d373e7c3a7a69c4b11004&chksm=9f226d6fa855e479fc36f7b7e9adfcb988fe0f48cf51fb48bfef834e53e1d145ceb2157abea5&token=1541976718&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AudioFingerPrinting)     |
 
 ## 机器/深度学习语音算法
 | 标题        | 原文   |  代码  |
