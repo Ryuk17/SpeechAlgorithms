@@ -39,6 +39,11 @@
 | 生成下雨的声音      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484656&idx=1&sn=d25135333a1cae0356360443544b4ccd&chksm=9f226f67a855e671994c2e946773eea2bac54c1f03146e3d7617d90c62cae2861ad1447ffdc7&token=1233423028&lang=zh_CN#rdd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
 
 
+## 语音编解码器
+| 标题        | 原文   |  代码  |
+| --------   | -----:  | :----:  |
+| 基于深度学习语音编解码器      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484656&idx=1&sn=d25135333a1cae0356360443544b4ccd&chksm=9f226f67a855e671994c2e946773eea2bac54c1f03146e3d7617d90c62cae2861ad1447ffdc7&token=1233423028&lang=zh_CN#rdd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec)     |
+
 ## 语音评价标准
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
