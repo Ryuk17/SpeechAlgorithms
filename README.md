@@ -29,6 +29,7 @@
 | 戈泽尔算法  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485206&idx=1&sn=e07fbc9e22c21bac4fb75d44c556e54c&chksm=9f226c81a855e597b7c7ff772f6fd6ac2c32416b10f8b1f955222daed4c4cffa4bdb21fb98a3&token=850045855&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Goertzel)     |
 | DNN单通道语音增强        |    [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484173&idx=1&sn=96ac7133e20dc95c3f2e7f16f74dcfb1&chksm=9f22689aa855e18c8417889ed0da02f143743d4ff805d877bc8dbfc4fde8a391fa6a127cc177&token=324471119&lang=zh_CN#rd)    |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechEnhancement)  |
 | 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
+| CGMM-MVDR   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485488&idx=1&sn=9c762f4a0d74d5e22cf5033a73f1709a&chksm=9f2263a7a855eab135a8ea019d1f6cac612e50c9812762f1075f74274fe03ef2417e4dd15cc6&token=1248464169&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
 
 ## 语音后端算法
 | 标题        | 原文   |  代码  |
