@@ -30,6 +30,7 @@
 | DNN单通道语音增强        |    [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484173&idx=1&sn=96ac7133e20dc95c3f2e7f16f74dcfb1&chksm=9f22689aa855e18c8417889ed0da02f143743d4ff805d877bc8dbfc4fde8a391fa6a127cc177&token=324471119&lang=zh_CN#rd)    |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechEnhancement)  |
 | 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
 | CGMM-MVDR   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485488&idx=1&sn=9c762f4a0d74d5e22cf5033a73f1709a&chksm=9f2263a7a855eab135a8ea019d1f6cac612e50c9812762f1075f74274fe03ef2417e4dd15cc6&token=1248464169&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
+| AI降噪的N种数据扩增方法  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485517&idx=1&sn=71dcc08d39b730ab7a4c331540899b9e&chksm=9f2263daa855eacc97c037cede343bd2a1f9f2d1dc5a61e96b8617e1bf71ff579de520279b1b&token=2094541592&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SEAugment)  |
 
 ## 语音后端算法
 | 标题        | 原文   |  代码  |
