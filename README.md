@@ -31,6 +31,7 @@
 | 使用LSTM进行端点检测   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484255&idx=1&sn=676d243fb7aea63b912e1a9833169578&chksm=9f2268c8a855e1deb3c4bb4db0990c625487c3e776c6f9baf293235be3f700ed267af61dfac1&token=221372596&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
 | CGMM-MVDR   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485488&idx=1&sn=9c762f4a0d74d5e22cf5033a73f1709a&chksm=9f2263a7a855eab135a8ea019d1f6cac612e50c9812762f1075f74274fe03ef2417e4dd15cc6&token=1248464169&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
 | AI降噪的N种数据扩增方法  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485517&idx=1&sn=71dcc08d39b730ab7a4c331540899b9e&chksm=9f2263daa855eacc97c037cede343bd2a1f9f2d1dc5a61e96b8617e1bf71ff579de520279b1b&token=2094541592&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SEAugment)  |
+| 生成丰富的啸叫样本     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485538&idx=1&sn=c3b6303c9fc63829abd615e761a7ba08&chksm=9f2263f5a855eae3512726218678d59f455ba624d6b7c2f68c1c5ca91e46f4a13ac52255076d&token=1594992793&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SEAugment/blob/main/se_aug/howl_aug.py)     |
 
 ## 语音后端算法
 | 标题        | 原文   |  代码  |
@@ -39,7 +40,6 @@
 |说话人性别识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484304&idx=1&sn=d7820bc93bd9dabe73079a5f56df9807&chksm=9f226807a855e11162ed0856b12723ba0b967ccb901b7f8a27219e3b475bbecd1327dd72874d&token=2016526173&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
 | 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s/E0j08B8JfR0wBIadfn9CLA)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
 | 生成下雨的声音      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484656&idx=1&sn=d25135333a1cae0356360443544b4ccd&chksm=9f226f67a855e671994c2e946773eea2bac54c1f03146e3d7617d90c62cae2861ad1447ffdc7&token=1233423028&lang=zh_CN#rdd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
-| 生成丰富的啸叫样本     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485538&idx=1&sn=c3b6303c9fc63829abd615e761a7ba08&chksm=9f2263f5a855eae3512726218678d59f455ba624d6b7c2f68c1c5ca91e46f4a13ac52255076d&token=1594992793&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SEAugment/blob/main/se_aug/howl_aug.py)     |
 
 
 ## 语音编解码器
