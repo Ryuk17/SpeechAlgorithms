@@ -39,6 +39,7 @@
 |说话人性别识别  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484304&idx=1&sn=d7820bc93bd9dabe73079a5f56df9807&chksm=9f226807a855e11162ed0856b12723ba0b967ccb901b7f8a27219e3b475bbecd1327dd72874d&token=2016526173&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
 | 使用XGBoost进行环境声音分类      | [Link](https://mp.weixin.qq.com/s/E0j08B8JfR0wBIadfn9CLA)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
 | 生成下雨的声音      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247484656&idx=1&sn=d25135333a1cae0356360443544b4ccd&chksm=9f226f67a855e671994c2e946773eea2bac54c1f03146e3d7617d90c62cae2861ad1447ffdc7&token=1233423028&lang=zh_CN#rdd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
+| 生成丰富的啸叫样本     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485538&idx=1&sn=c3b6303c9fc63829abd615e761a7ba08&chksm=9f2263f5a855eae3512726218678d59f455ba624d6b7c2f68c1c5ca91e46f4a13ac52255076d&token=1594992793&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SEAugment/blob/main/se_aug/howl_aug.py)     |
 
 
 ## 语音编解码器
