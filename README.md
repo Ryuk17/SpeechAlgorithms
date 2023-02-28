@@ -46,7 +46,7 @@
 | 标题        | 原文   |  代码  |
 | --------   | -----:  | :----:  |
 | 基于深度学习语音编解码器      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485391&idx=1&sn=176e3a2179972a5b0e7ce712e20d8ce7&chksm=9f226c58a855e54e44c279650e8100ffaa02f97dadbd42a87dd90fc92336d5a227ce0bd863aa&token=1479861421&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec)     |
-| 语音编解码器考古之G711      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485391&idx=1&sn=176e3a2179972a5b0e7ce712e20d8ce7&chksm=9f226c58a855e54e44c279650e8100ffaa02f97dadbd42a87dd90fc92336d5a227ce0bd863aa&token=1479861421&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec/G711)     |
+| 语音编解码器考古之G.711      | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485391&idx=1&sn=176e3a2179972a5b0e7ce712e20d8ce7&chksm=9f226c58a855e54e44c279650e8100ffaa02f97dadbd42a87dd90fc92336d5a227ce0bd863aa&token=1479861421&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec/G711)     |
 
 ## 语音评价标准
 | 标题        | 原文   |  代码  |
