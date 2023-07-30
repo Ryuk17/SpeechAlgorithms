@@ -32,6 +32,7 @@
 | CGMM-MVDR   | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485488&idx=1&sn=9c762f4a0d74d5e22cf5033a73f1709a&chksm=9f2263a7a855eab135a8ea019d1f6cac612e50c9812762f1075f74274fe03ef2417e4dd15cc6&token=1248464169&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
 | AI降噪的N种数据扩增方法  | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485517&idx=1&sn=71dcc08d39b730ab7a4c331540899b9e&chksm=9f2263daa855eacc97c037cede343bd2a1f9f2d1dc5a61e96b8617e1bf71ff579de520279b1b&token=2094541592&lang=zh_CN#rd)  | [Code](https://github.com/Ryuk17/SEAugment)  |
 | 生成丰富的啸叫样本     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485538&idx=1&sn=c3b6303c9fc63829abd615e761a7ba08&chksm=9f2263f5a855eae3512726218678d59f455ba624d6b7c2f68c1c5ca91e46f4a13ac52255076d&token=1594992793&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SEAugment/blob/main/se_aug/howl_aug.py)     |
+| 瞬态噪声抑制     | [Link](https://mp.weixin.qq.com/s?__biz=MzA3MjEyMjEwNA==&mid=2247485538&idx=1&sn=c3b6303c9fc63829abd615e761a7ba08&chksm=9f2263f5a855eae3512726218678d59f455ba624d6b7c2f68c1c5ca91e46f4a13ac52255076d&token=1594992793&lang=zh_CN#rd)   |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/TransientInterferenceSuppression)     |
 
 ## 语音后端算法
 | 标题        | 原文   |  代码  |
