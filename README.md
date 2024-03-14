@@ -1,6 +1,6 @@
 # Speech Algorithms
 
-[There is an English READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)  
+[There is an English README](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README_EN.md)  
 
 [下载单独文件夹](https://minhaskamal.github.io/DownGit/#/home)
 
