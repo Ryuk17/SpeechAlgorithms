@@ -1,6 +1,6 @@
 # Speech Algorithms
 
-[There is an Chinese READEME](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README.md)  
+[There is an Chinese README](https://github.com/Ryuk17/SpeechAlgorithms/blob/master/README.md)  
 
 [Download a Single Folder](https://minhaskamal.github.io/DownGit/#/home)
 
