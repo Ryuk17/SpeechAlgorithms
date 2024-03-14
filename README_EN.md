@@ -54,7 +54,7 @@
 | --------   |  :----:  |
 | Speech Quality Metrics      |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechQualityMeasures)     |
 | Speech Intelligibility Metrics       |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechIntelligibilityMetrics)     |
-| Voice Similarity Evaluation      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DynamicTimeWarping)     |
+| Speech Similarity Evaluation      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DynamicTimeWarping)     |
 
 
 
