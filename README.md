@@ -4,7 +4,7 @@ The implementation of various speech algorithms can be downloaded individually t
 
 # Content
 
-## Speech singal processing
+## 🎤 Speech singal processing
 | Title        |  Code  |
 | --------   | :----:  |
 | Generate Speech Samples with noisy/echo/reverbed/howling    |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechAugmentation)  |
@@ -17,7 +17,7 @@ The implementation of various speech algorithms can be downloaded individually t
 | Goertzel Algorithm  |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Goertzel)     |
 | Generate the Sound of Rain       |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
 
-## Speech front-end algorithms
+## 🎧️ Speech front-end algorithms
 | Title        |   Code  |
 | --------   |  :----:  |
 | Speech Enhancement Using Spectral Subtraction |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpectralSubtraction)     |
@@ -36,14 +36,14 @@ The implementation of various speech algorithms can be downloaded individually t
 | Endpoint Detection Using LSTM    | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
 
 
-## Microphone array algorithms
+## 🎶 Microphone array algorithms
 | Title        |   Code  |
 | --------   |  :----:  |
 | CGMM-MVDR   | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
 | Sound Source Localization Based on TDOA      |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SoundSourceLocalization)     |
 
 
-## Speech Pattern Recognition
+## 🤖 Speech Pattern Recognition
 | Title        |   Code  |
 | --------   |  :----:  |
 | Speech Commands Recognition Using CNN   |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CommandRecognition) |
@@ -52,14 +52,14 @@ The implementation of various speech algorithms can be downloaded individually t
 | CTC Prefix Beam Search      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CtcSearcher)     |
 
 
-## Speech Codec
+## 💽 Speech Codec
 | Title        | Code  |
 | --------   | :----:  |
 | AI Speech Codec     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec)     |
 | G.711 Speech Codec     |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec/G711)     |
 
 
-## Speech Metrics
+## 📝 Speech Metrics
 | Title        |  Code  |
 | --------   |  :----:  |
 | Speech Quality Metrics     |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechQualityMeasures)     |
@@ -67,6 +67,9 @@ The implementation of various speech algorithms can be downloaded individually t
 | Speech Similarity Evaluation      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DynamicTimeWarping)     |
 
 
+## ⭐️ Star
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ryuk17/SpeechAlgorithms&type=Date)](https://star-history.com/#Ryuk17/SpeechAlgorithms&Date)
 
 
 
