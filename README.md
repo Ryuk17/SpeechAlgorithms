@@ -4,71 +4,84 @@ The implementation of various speech algorithms can be downloaded individually t
 
 # Content
 
-## Speech singal processing
+## Speech Signal Processing
 | Title        |  Code  |
 | --------   | :----:  |
-| Generate Speech Samples with noisy/echo/reverbed/howling    |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechAugmentation)  |
-| Resample Speech Signal at Arbitrary Sample Rate     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Resample)     |
-| Embedding and Extracting Audio Digital Watermarkings     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Watermarking)     |
-| Voice Speed and Pitch Changes       |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceChange)     |
-| Enframe, Windowing and DFT     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnframeWindowFFT)     |
-| Audio Aligment with Cross-correlation  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AudioAlignment)     |
-| Music Recognition System Based on Audio Fingerprinting |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AudioFingerPrinting)     |
-| Goertzel Algorithm  |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Goertzel)     |
-| Generate the Sound of Rain       |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DesignSound)     |
+| Resample Speech Signal at Arbitrary Sample Rate     |   [Code](./Resample)     |
+| Audio Alignment with Cross-correlation  | [Code](./AudioProcess/AudioAlignment)     |
+| Music Recognition System Based on Audio Fingerprinting |  [Code](./AudioProcess/AudioFingerPrinting)     |
+| Goertzel Algorithm  |    [Code](./AudioProcess/Goertzel)     |
+| Voice Speed and Pitch Changes       |   [Code](./AudioProcess/VoiceChange)     |
+| Embedding and Extracting Audio Digital Watermarkings     |   [Code](./AudioProcess/Watermarking)     |
+| Enframe, Windowing and DFT     |   [Code](./AudioProcess/EnframeWindowFFT)     |
+| CTC Prefix Beam Search      |   [Code](./AudioProcess/CtcSearcher)     |
+| Speech Similarity Evaluation (Dynamic Time Warping)      |   [Code](./AudioProcess/DynamicTimeWarping)     |
 
-## Speech front-end algorithms
+## Sound Design
+| Title        |  Code  |
+| --------   | :----:  |
+| Generate the Sound of Rain       |   [Code](./DesignSound/rain)     |
+| Generate the Sound of Wind       |   [Code](./DesignSound/wind)     |
+
+## Acoustic Echo Cancellation
 | Title        |   Code  |
 | --------   |  :----:  |
-| Speech Enhancement Using Spectral Subtraction |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpectralSubtraction)     |
-| Speech Speration Based on TF Mask   |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechSperation)   |
-| Introduction of Adaptive Filter Echo Cancellation   |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AcousticEchoCancellation)  |
-| Generate VAD Labels Using AMR Codec      |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection/VADCoder) |
-| Introduction of WebRTC VAD     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_VAD)     |
-| Acoustic Echo Cancellation Algorithm Based on Kalman Filter     |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/AcousticEchoCancellation)     |
-| Introduction of WebRTC ANR |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_ANR)     |
-| Introduction of WebRTC AGC     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AGC)     |
-| Introduction of WebRTC AEC      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/WebRTC_AEC)     |
-| Single Channel Speech Enhancement Using DNN       |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechEnhancement)  |
+| Introduction of Adaptive Filter (LMS) Echo Cancellation   |  [Code](./AcousticEchoCancellation/lms)  |
+| Acoustic Echo Cancellation Algorithm Based on Kalman Filter     |    [Code](./AcousticEchoCancellation/kalman)     |
+| Introduction of WebRTC AEC      |   [Code](./AcousticEchoCancellation/WebRTC_AEC)     |
+
+## Automatic Gain Control
+| Title        |   Code  |
+| --------   |  :----:  |
+| Introduction of WebRTC AGC     |   [Code](./AudioGainControl/WebRTC_AGC)     |
+
+## Noise Reduction
+| Title        |   Code  |
+| --------   |  :----:  |
+| Speech Enhancement Using Spectral Subtraction |  [Code](./AudioNoiseReduction/SpectralSubtraction)     |
+| Transient Noise Suppression      |    [Code](./AudioNoiseReduction/TransientInterferenceSuppression)     |
+| Introduction of WebRTC ANR |   [Code](./AudioNoiseReduction/WebRTC_ANR)     |
+
+## Speech Enhancement
+| Title        |   Code  |
+| --------   |  :----:  |
+| Generate Speech Samples with noisy/echo/reverbed/howling    |   [Code](./SpeechEnhancement/SpeechAugmentation)  |
+| Single Channel Speech Enhancement Using DNN       |    [Code](./SpeechEnhancement/SpeechMask)  |
+| Speech Speration Based on TF Mask   |  [Code](./SpeechEnhancement/SpeechSperation)   |
 | Data Augmentations for Speech Enhancement  |[Code](https://github.com/Ryuk17/noise-xorcist/tree/main/datasets)  |
 | How to Generate Howling Samples     |   [Code](https://github.com/Ryuk17/noise-xorcist/tree/main/datasets)     |
-| Transient Noise Suppression      |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/TransientInterferenceSuppression)     |
-| Endpoint Detection Using LSTM    | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/VoiceActivityDetection)  |
 
-
-## Microphone array algorithms
+## Voice Activity Detection
 | Title        |   Code  |
 | --------   |  :----:  |
-| CGMM-MVDR   | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/Beamforming/CGMM-MVDR)  |
-| Sound Source Localization Based on TDOA      |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SoundSourceLocalization)     |
-| Sound Source Localization Based on SRP-PHAT      |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SoundSourceLocalization)     |
+| Introduction of WebRTC VAD     |   [Code](./VoiceActivityDetection/WebRTC_VAD)     |
+| Endpoint Detection Using LSTM    | [Code](./VoiceActivityDetection/LSTM_VAD)  |
+| Generate VAD Labels Using AMR Codec      |  [Code](./VoiceActivityDetection/LSTM_VAD/VADCoder) |
 
+## Microphone Array Algorithms
+| Title        |   Code  |
+| --------   |  :----:  |
+| CGMM-MVDR   | [Code](./MicrophoneArray/Beamforming/CGMM-MVDR)  |
+| Sound Source Localization Based on TDOA      |    [Code](./MicrophoneArray/SoundSourceLocalization)     |
+| Sound Source Localization Based on SRP-PHAT      |    [Code](./MicrophoneArray/SoundSourceLocalization)     |
 
 ## Speech Pattern Recognition
 | Title        |   Code  |
 | --------   |  :----:  |
-| Speech Commands Recognition Using CNN   |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CommandRecognition) |
-| Speaker Gender Identification  | [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/GenderClassify)  |
-| Environmental Sound Classification Using XGBoost       |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/EnvironmentSoundClassification)     |
-| CTC Prefix Beam Search      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/CtcSearcher)     |
-
+| Speech Commands Recognition Using CNN   |  [Code](./AudioPatternReognition/CommandRecognition) |
+| Speaker Gender Identification  | [Code](./AudioPatternReognition/GenderClassify)  |
+| Environmental Sound Classification Using XGBoost       |   [Code](./AudioPatternReognition/EnvironmentSoundClassification)     |
+| Keyword Spotting Using Deep Learning   |  [Code](./AudioPatternReognition/KeyWordSpotting) |
+| Vowel and Consonant Division  | [Code](./AudioPatternReognition/VowelConsonantDivision)  |
 
 ## Speech Codec
 | Title        | Code  |
 | --------   | :----:  |
-| AI Speech Codec     |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec)     |
-| G.711 Speech Codec     |    [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechCodec/G711)     |
-
+| AI Speech Codec (Lyra)     |   [Code](./SpeechCodec/Lyra)     |
+| G.711 Speech Codec     |    [Code](./SpeechCodec/G711)     |
 
 ## Speech Metrics
 | Title        |  Code  |
 | --------   |  :----:  |
-| Speech Quality Metrics     |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechQualityMeasures)     |
-| Speech Intelligibility Metrics      |  [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/SpeechIntelligibilityMetrics)     |
-| Speech Similarity Evaluation      |   [Code](https://github.com/Ryuk17/SpeechAlgorithms/tree/master/DynamicTimeWarping)     |
-
-
-
-
-
-
+| Speech Quality Metrics     |  [Code](./SpeechMetrics/SpeechQualityMeasures)     |
+| Speech Intelligibility Metrics      |  [Code](./SpeechMetrics/SpeechIntelligibilityMetrics)     |
